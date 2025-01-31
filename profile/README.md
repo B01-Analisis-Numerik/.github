@@ -13,5 +13,7 @@ Kelas B - Kelompok 1 - 2024/2025 Gasal
 | Sabrina Aviana Dewi | 2206030520
 
 ### Tugas Kelompok 1
+System of Linear Equation & Least Square Problem
 
 ### Tugas Kelompok 2
+Interpolations & Numerical Integration
